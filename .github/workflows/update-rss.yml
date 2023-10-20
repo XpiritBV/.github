@@ -1,6 +1,7 @@
 name: Update this repo's README
 
-permissions: write-all
+permissions: 
+  contents: write
 
 on:
   workflow_dispatch:
