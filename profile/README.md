@@ -1,4 +1,4 @@
-# Xebia sponsors GitHub Universe 2023.
+![Xebia|Xpirit is a Platinum Plus sponsor of GitHub Universe 2023](https://github.com/XpiritBV/.github/blob/main/profile/git-hub-universe-platinum-plus-xpirit-2000-x-800.png)
 
 ## Introducing Xebia: Your GitHub-Powered Technology Partner 
 
