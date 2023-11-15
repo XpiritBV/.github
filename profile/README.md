@@ -47,9 +47,9 @@ And [all of our partnerships...](https://xebia.com/about-us/partners/)
 ## Latest blog posts on [xpirit.com/blog](https://xpirit.com/blog):
 
 <!-- feed start -->
+- Nov 14 - [Reflections of a DevOpsologist](https://xpirit.com/reflections-of-a-devopsologist/)
 - Nov 02 - [Securing Azure Service Bus](https://xpirit.com/securing-azure-service-bus/)
 - Nov 01 - [Performance Optimization C#.NET For Energy Efficiency](https://xpirit.com/performance-optimization-c-net-for-energy-efficiency/)
 - Oct 30 - [InnerSource](https://xpirit.com/innersource/)
 - Oct 02 - [Investigating az-cli performance on the hosted Azure Pipelines and GitHub Runners](https://xpirit.com/investigating-az-cli-performance-on-the-hosted-azure-pipelines-and-github-runners/)
-- Sep 20 - [Adding Load Testing to your CI-CD workflows in GitHub Actions](https://xpirit.com/adding-load-testing-to-your-ci-cd-workflows-in-github-actions/)
 <!-- feed end -->
