@@ -47,9 +47,9 @@ And [all of our partnerships...](https://xebia.com/about-us/partners/)
 ## Latest blog posts on [xpirit.com/blog](https://xpirit.com/blog):
 
 <!-- feed start -->
+- Nov 24 - [Xebia | Xpirit  first to offer unique GitHub-certified training](https://xpirit.com/xebia-xpirit-first-to-offer-unique-github-certified-training/)
 - Nov 19 - [Efficient and Secure Software Delivery with Azure Deployment Environments](https://xpirit.com/efficient-and-secure-software-delivery-with-azure-deployment-environments/)
 - Nov 14 - [Reflections of a DevOpsologist](https://xpirit.com/reflections-of-a-devopsologist/)
 - Nov 02 - [Securing Azure Service Bus](https://xpirit.com/securing-azure-service-bus/)
 - Nov 01 - [Performance Optimization C#.NET For Energy Efficiency](https://xpirit.com/performance-optimization-c-net-for-energy-efficiency/)
-- Oct 30 - [InnerSource](https://xpirit.com/innersource/)
 <!-- feed end -->
