@@ -47,9 +47,9 @@ And [all of our partnerships...](https://xebia.com/about-us/partners/)
 ## Latest blog posts on [xpirit.com/blog](https://xpirit.com/blog):
 
 <!-- feed start -->
+- Nov 30 - [Celebrating Two Years of Unity with Xpirit Germany](https://xpirit.com/celebrating-two-years-of-unity-with-xpirit-germany/)
 - Nov 27 - [Azure Policy Unveiled: Ignite Your Cloud Management Passion](https://xpirit.com/azure-policy-unveiled-ignite-your-cloud-management-passion/)
 - Nov 24 - [Xebia | Xpirit  first to offer unique GitHub-certified training](https://xpirit.com/xebia-xpirit-first-to-offer-unique-github-certified-training/)
 - Nov 19 - [Efficient and Secure Software Delivery with Azure Deployment Environments](https://xpirit.com/efficient-and-secure-software-delivery-with-azure-deployment-environments/)
 - Nov 14 - [Reflections of a DevOpsologist](https://xpirit.com/reflections-of-a-devopsologist/)
-- Nov 02 - [Securing Azure Service Bus](https://xpirit.com/securing-azure-service-bus/)
 <!-- feed end -->
