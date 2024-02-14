@@ -43,3 +43,11 @@ Xebia is your partner of choice for driving technology innovation and transforma
 </picture>
 
 And [all of our partnerships...](https://xebia.com/about-us/partners/)
+
+<!-- feed start -->
+- Dec 20 - [Let’s Playwright with .NET 6 MVC](https://xpirit.com/lets-playwright-with-net-6-mvc/)
+- Dec 14 - [Acing the CKAD exam!](https://xpirit.com/acing-the-ckad-exam/)
+- Dec 13 - [Sustainable Software Engineering Through the Lens of Environmental](https://xpirit.com/sustainable-software-engineering-through-the-lens-of-environmental/)
+- Nov 30 - [Celebrating Two Years of Unity with Xpirit Germany](https://xpirit.com/celebrating-two-years-of-unity-with-xpirit-germany/)
+- Nov 27 - [Azure Policy Unveiled: Ignite Your Cloud Management Passion](https://xpirit.com/azure-policy-unveiled-ignite-your-cloud-management-passion/)
+<!-- feed end -->
